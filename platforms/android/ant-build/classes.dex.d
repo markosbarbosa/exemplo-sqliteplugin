@@ -1,0 +1,27 @@
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes.dex : \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\br\com\mbarbosa\testeplugin\BuildConfig.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\br\com\mbarbosa\testeplugin\CordovaApp.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\br\com\mbarbosa\testeplugin\R$attr.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\br\com\mbarbosa\testeplugin\R$drawable.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\br\com\mbarbosa\testeplugin\R$string.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\br\com\mbarbosa\testeplugin\R$xml.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\br\com\mbarbosa\testeplugin\R.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\com\triarc\DataLock.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\com\triarc\InterprocessLock.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\com\triarc\LockType.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\io\liteglue\SQLiteAndroidDatabase$QueryType.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\io\liteglue\SQLiteAndroidDatabase.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\io\liteglue\SQLitePlugin$1.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\io\liteglue\SQLitePlugin$Action.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\io\liteglue\SQLitePlugin$DBQuery.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\io\liteglue\SQLitePlugin$DBRunner.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\io\liteglue\SQLitePlugin$SQLiteDatabaseNDK.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\io\liteglue\SQLitePlugin.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin$1.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin$Action.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin$DBQuery.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin$DBRunner.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin$QueryType.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\classes\org\pgsqlite\SQLitePlugin.class \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\dexedLibs\classes-90582e31ed615bcdb626babfb1c89ab3.jar \
+C:\wamp\www\TestePlugin\platforms\android\ant-build\dexedLibs\sqlite4java-cdbe2fd66580ac3460b62293fe96fcb5.jar \
