@@ -5,22 +5,22 @@ Aí está um exemplo pronto, basta baixar e executar. Importante: O plugin só f
 
 Apesar do projeto estar pronto para execular, vou listar os passos necessários para criar a aplicação e gerar o apk de exemplo.
 
-1. Instalar o phonegap via npm
+1. Instalar o phonegap via npm<br>
 npm install -g phonegap
 
-2. Instalar o apache ant
+2. Instalar o apache ant<br>
 no fedora: yum install ant
 
-3. Criar o projeto phonegap
+3. Criar o projeto phonegap<br>
 phonegap create testeplugin
 
-4. Adicionar a plataforma
+4. Adicionar a plataforma<br>
 phonegap platform add android
 
-5. Adicionar o plugin
+5. Adicionar o plugin<br>
 phonegap plugin add https://github.com/litehelpers/Cordova-sqlite-storage
 
-6. Na página index.html, dentro da pasta www do seu projeto, chamar o arquivo de script do plugin
+6. Na página index.html, dentro da pasta www do seu projeto, chamar o arquivo de script do plugin<br>
 <script type="text/javascript" src="SQLitePlugin.js"></script>
 
 7. Acrescentar ao "js/index.js", arquivo presente na pasta www do projeto, as seguintes linhas para debugar e visualizar algumas informações dos registros que estão sendo inseridos. Esse exemplo eu peguei da própria página do plugin.
@@ -53,6 +53,6 @@ phonegap plugin add https://github.com/litehelpers/Cordova-sqlite-storage
             });
         });
 
-8. Por último gerar o apk e em seguida instalar
+8. Por último gerar o apk e em seguida instalar<br>
 phonegap build android
 
